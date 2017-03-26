@@ -1,5 +1,5 @@
 <p align="center" >
-<img src="https://raw.github.com/AFNetworking/AFNetworking/assets/afnetworking-logo.png" alt="AFNetworking" title="AFNetworking">
+<img src="http://islandtime.deviantart.com/art/snowflakes-107076009" alt="AFNetworking" title="AFNetworking">
 </p>
 
 # iOS
@@ -7,7 +7,6 @@
 
 ##  一、申请gmail邮箱
 
-  自己申请不在赘述 
 
 
 ##  二、申请Github账号
