@@ -33,7 +33,7 @@
 
 * git add .
 * git commit -m 'first_commit'
-* git remote add origin https://github.com/findingsea/myRepoForBlog.git
+* git remote add origin https://github.com/cosmosape/iOS.git
 * git push origin master
 
 
