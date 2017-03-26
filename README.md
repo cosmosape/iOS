@@ -1,5 +1,5 @@
 <p align="center" >
-<img src="http://islandtime.deviantart.com/art/snowflakes-107076009" alt="AFNetworking" title="AFNetworking">
+<img src="http://img03.deviantart.net/0193/i/2008/357/b/5/snowflakes_by_islandtime.jpg" alt="AFNetworking" title="AFNetworking">
 </p>
 
 # iOS
