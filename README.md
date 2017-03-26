@@ -1,33 +1,41 @@
+<p align="center" >
+<img src="https://raw.github.com/AFNetworking/AFNetworking/assets/afnetworking-logo.png" alt="AFNetworking" title="AFNetworking">
+</p>
+
 # iOS
 
-# 一、申请gmail邮箱
+
+##  一、申请gmail邮箱
 
   自己申请不在赘述 
 
-\n
-# 二、申请Github账号
+
+##  二、申请Github账号
 
   自己申请不在赘述
 
-\n
-# 三、学会Github上传下载的基本命令
 
- create a new repository on the command line \n
-\n
- echo "# iOS" >> README.md \n
- git init \n
- git add README.md \n
- git commit -m "first commit" \n
- git remote add origin https://github.com/cosmosape/iOS.git \n
- git push -u origin master \n
- \n
- \n
- push an existing repository from the command line \n
-\n
- git remote add origin https://github.com/cosmosape/iOS.git \n
- git push -u origin master\n
-\n
+##  三、学会Github上传下载的基本命令
 
-# 四、创建Github个人博客
+- create a new repository on the command line
+
+- echo "# iOS" >> README.md
+- git init
+- git add README.md
+- git commit -m "first commit"
+- git remote add origin https://github.com/cosmosape/iOS.git
+- git push -u origin master
+- push an existing repository from the command line
+- git remote add origin https://github.com/cosmosape/iOS.git
+- git push -u origin master
+
+
+- git add .
+- git commit -m 'first_commit'
+- git remote add origin https://github.com/findingsea/myRepoForBlog.git
+- git push origin master
+
+
+##  四、创建Github个人博客
 
 
